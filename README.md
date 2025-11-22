@@ -81,9 +81,15 @@ If you like this project, give it a ⭐ on GitHub.
  ---
  
 python
+
 tkinter
+
 rock-paper-scissors
+
 python-game
+
 gui-application
+
 beginner-project
+
 python-tkinter
