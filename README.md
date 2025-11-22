@@ -107,7 +107,7 @@ Perfect for beginners learning GUI programming.
 
 ### 🎮 Game Result
 <p align="center">
-  <img src="https://your-screenshot-2-link" width="70%">
+  <img src="C:\Users\kumar\OneDrive\Desktop\DESIGNS\Moonknight.jpg" width="70%">
 </p>
 
 ---
@@ -125,15 +125,5 @@ Perfect for beginners learning GUI programming.
 - Paper beats Rock  
 - Scissor beats Paper  
 - Same choice → Tie
-
----
-
-## ▶ How to Run
-
-```bash
-python main.py
-
-
-
 
 
