@@ -67,14 +67,6 @@ Feel free to submit pull requests or suggest improvements!
 ## ⭐ Don't Forget to Star This Repo!
 If you like this project, give it a ⭐ on GitHub.  
 
-python
-tkinter
-rock-paper-scissors
-python-game
-gui-application
-beginner-project
-python-tkinter
-
 ---
 
 ## ✨ Features
@@ -85,3 +77,13 @@ python-tkinter
 - 🎨 **Modern UI** – Stylish buttons & smooth layout.
 - 🧩 **Easy to Understand** – Beginner-friendly project.
 - 🖥 **No External Libraries** – Pure Python.
+
+ ---
+ 
+python
+tkinter
+rock-paper-scissors
+python-game
+gui-application
+beginner-project
+python-tkinter
