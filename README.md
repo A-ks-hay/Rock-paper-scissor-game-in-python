@@ -45,10 +45,9 @@ README.md
 1. Make sure Python is installed.   
 2. Download or clone the repository:
    git clone https://github.com/
-<your-username>/Rock-Paper-Scissor-Game.git
+<A-ks-hay>/Rock-Paper-Scissor-Game.git
 
 3. Run the file:
-
 
 ---
 
@@ -76,10 +75,6 @@ gui-application
 beginner-project
 python-tkinter
 
-<p align="center">
-  <img src="https://your-banner-image-link-here" width="100%" alt="Rock Paper Scissor Banner">
-</p>
-
 # 🎮 Rock • Paper • Scissor – Python Tkinter Game
 
 An interactive Rock Paper Scissor game built using **Python + Tkinter**, featuring a clean and modern GUI.  
@@ -95,35 +90,3 @@ Perfect for beginners learning GUI programming.
 - 🎨 **Modern UI** – Stylish buttons & smooth layout.
 - 🧩 **Easy to Understand** – Beginner-friendly project.
 - 🖥 **No External Libraries** – Pure Python.
-
----
-
-## 📸 Screenshots
-
-### 🖥 Main Interface
-<p align="center">
-  <img src="https://your-screenshot-1-link" width="70%">
-</p>
-
-### 🎮 Game Result
-<p align="center">
-  <img src="C:\Users\kumar\OneDrive\Desktop\DESIGNS\Moonknight.jpg" width="70%">
-</p>
-
----
-
-## 🎞 Live Demo (GIF Preview)
-
-<p align="center">
-  <img src="https://your-gif-preview-link" width="70%">
-</p>
-
----
-
-## 🧠 Game Logic
-- Rock beats Scissor  
-- Paper beats Rock  
-- Scissor beats Paper  
-- Same choice → Tie
-
-
