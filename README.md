@@ -1,7 +1,7 @@
 # Rock-paper-scissor-game-in-python
 A simple and interactive Rock Paper Scissor game built using Python and Tkinter.  This GUI-based project lets users choose Rock, Paper, or Scissor while the computer  generates a random choice. The interface is clean, beginner-friendly, and perfect  for learning Python GUI development.
 
-# 🎮 Rock • Paper • Scissor – Python Tkinter Game
+# Rock • Paper • Scissor – Python Tkinter Game
 
 A simple and interactive **Rock Paper Scissor** game built using **Python** and **Tkinter GUI**.  
 This project randomly selects the computer’s choice and displays the result with a clean interface.
@@ -74,11 +74,6 @@ python-game
 gui-application
 beginner-project
 python-tkinter
-
-# 🎮 Rock • Paper • Scissor – Python Tkinter Game
-
-An interactive Rock Paper Scissor game built using **Python + Tkinter**, featuring a clean and modern GUI.  
-Perfect for beginners learning GUI programming.
 
 ---
 
