@@ -55,3 +55,4 @@ result_label = tk.Label(root, text="", font=("Arial", 12), bg="#f3f3f3", justify
 result_label.pack(pady=20)
 
 root.mainloop()
+
