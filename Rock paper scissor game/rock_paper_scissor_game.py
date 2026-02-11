@@ -29,7 +29,7 @@ def play(user_choice):
 
 
 
-# GUI Setup
+# GUI Setup:
 
 root = tk.Tk()
 root.title("Rock Paper Scissor Game")
@@ -55,4 +55,5 @@ result_label = tk.Label(root, text="", font=("Arial", 12), bg="#f3f3f3", justify
 result_label.pack(pady=20)
 
 root.mainloop()
+
 
